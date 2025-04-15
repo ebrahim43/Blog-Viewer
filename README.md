@@ -38,6 +38,6 @@ This is a simple web application that fetches data from the [JSONPlaceholder API
 
 ## 📸 Demo
  
-*Replace this with a real screenshot of your app if possible.*
+https://ebrahim43.github.io/Blog-Viewer/
 
 
